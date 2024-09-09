@@ -2,7 +2,7 @@
 
 The starter code for the first class.
 
-## 1. 课前准备
+## 1. WSL 上的 VSCode 配置
 
 在习题课开始之前，请完成以下工作：
 
