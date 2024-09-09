@@ -15,4 +15,4 @@ The starter code for the first class.
 - 安装 **Termius**  
   [Termius 安装指南](https://termius.com/)
 
-如有问题，请联系助教：wuhaoyu556@ruc.edu.cn
+如有问题，请联系助教
