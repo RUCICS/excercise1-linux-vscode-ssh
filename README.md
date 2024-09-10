@@ -1,18 +1,14 @@
-# Excercise1 - Linux, VSCode, SSH
+# Excercise 1 - Linux, VSCode, SSH
 
-The starter code for the first class.
+## 1. 课前准备
 
-## 1. WSL 上的 VSCode 配置
+在习题课开始之前，请完成以下准备工作：
 
-在习题课开始之前，请完成以下工作：
+- 配置 **WSL 2** （针对 Windows 用户）
+  [安装 WSL](https://learn.microsoft.com/windows/wsl/install?wt.mc_id=studentamb_407760)
 
-- 配置 **WSL 2** （针对 Windows 用户）  
-  [WSL 安装指南](https://learn.microsoft.com/en-us/windows/wsl/install)
+- 安装 **Visual Studio Code**
+  [开始通过 WSL 使用 VSCode](https://learn.microsoft.com/windows/wsl/tutorials/wsl-vscode?wt.mc_id=studentamb_407760)
 
-- 配置 **Visual Studio Code**  
-  [在 WSL 上安装 VSCode](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode)
-
-- 安装 **Termius**  
+- 安装 **Termius**
   [Termius 安装指南](https://termius.com/)
-
-如有问题，请联系助教
