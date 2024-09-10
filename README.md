@@ -11,4 +11,4 @@
   [开始通过 WSL 使用 VSCode](https://learn.microsoft.com/windows/wsl/tutorials/wsl-vscode?wt.mc_id=studentamb_407760)
 
 - 安装 **Termius**
-  [Termius 安装指南](https://termius.com/)
+  [Termius 安装指南](https://support.termius.com/hc/en-us/articles/900007733143-Installation)
