@@ -5,13 +5,14 @@
 在习题课开始之前，请完成以下准备工作：
 
 - 配置 **WSL 2** （针对 Windows 用户）
-  [安装 WSL](https://learn.microsoft.com/windows/wsl/install?wt.mc_id=studentamb_407760)
+  - [安装 WSL](https://learn.microsoft.com/windows/wsl/install?wt.mc_id=studentamb_407760)
 
 - 安装 **Visual Studio Code**
-  [开始通过 WSL 使用 VSCode](https://learn.microsoft.com/windows/wsl/tutorials/wsl-vscode?wt.mc_id=studentamb_407760)
+  - [开始通过 WSL 使用 VSCode](https://learn.microsoft.com/windows/wsl/tutorials/wsl-vscode?wt.mc_id=studentamb_407760)
+  - 欲了解 VSCode 的更多内容，可访问 [VSCode 文档](https://code.visualstudio.com/docs?wt.mc_id=studentamb_407760)
 
 - 安装 **Termius**
-  [Termius 安装指南](https://support.termius.com/hc/en-us/articles/900007733143-Installation)
+  - [Termius 安装指南](https://support.termius.com/hc/en-us/articles/900007733143-Installation)
 
 ## 常见问题解答
 
